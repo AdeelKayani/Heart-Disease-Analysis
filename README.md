@@ -57,8 +57,3 @@ The dataset contains:
 - **`chol`**: Serum cholesterol level.
 - **`num`**: Heart disease severity (0 = No disease, 1-4 = Increasing severity).
 
----
-
-## Contact
-
-For questions or suggestions, feel free to reach out!
